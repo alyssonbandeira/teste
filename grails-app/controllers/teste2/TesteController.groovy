@@ -4,10 +4,8 @@ class TesteController {
 
     def index() {
 
-       println "testefdsdasd"
+       println "teste"
 
        println "BBB"
-
-
     }
 }
