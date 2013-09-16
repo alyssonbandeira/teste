@@ -6,6 +6,6 @@ class TesteController {
 
        println "teste"
 
-       println "BBB"
+       println "BBBfdsfdsf"
     }
 }
