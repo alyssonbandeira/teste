@@ -9,7 +9,7 @@
     <ignored path=".idea/workspace.xml" />
     <file path="/error.gsp" changelist="51c93e53-74c1-452d-b72a-f91f0239dc53" time="1379336479153" ignored="false" />
     <file path="/TesteController.groovy" changelist="51c93e53-74c1-452d-b72a-f91f0239dc53" time="1379341180737" ignored="false" />
-    <file path="/Dummy.txt" changelist="51c93e53-74c1-452d-b72a-f91f0239dc53" time="1379347260533" ignored="false" />
+    <file path="/Dummy.txt" changelist="51c93e53-74c1-452d-b72a-f91f0239dc53" time="1379347454680" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,7 +82,7 @@
       <file leaf-file-name="TesteController.groovy" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/grails-app/controllers/teste2/TesteController.groovy">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="42" selection-start="102" selection-end="102" vertical-scroll-proportion="0.24725275">
+            <state line="10" column="19" selection-start="165" selection-end="165" vertical-scroll-proportion="0.41208792">
               <folding />
             </state>
           </provider>
@@ -348,7 +348,11 @@
       <created>1379347264852</created>
       <updated>1379347264852</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Testesdasd">
+      <created>1379347460809</created>
+      <updated>1379347460809</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -462,7 +466,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/grails-app/controllers/teste2/TesteController.groovy">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="42" selection-start="102" selection-end="102" vertical-scroll-proportion="0.24725275">
+        <state line="10" column="19" selection-start="165" selection-end="165" vertical-scroll-proportion="0.41208792">
           <folding />
         </state>
       </provider>

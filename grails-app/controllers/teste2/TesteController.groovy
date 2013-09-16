@@ -7,5 +7,7 @@ class TesteController {
        println "testedsfdsfdffsdfdsfdsdsfs"
 
        println "BBBzfdsfsfsdsdsdsdsdsd"
+
+        println "UI"
     }
 }
